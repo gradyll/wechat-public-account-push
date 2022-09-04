@@ -31,13 +31,27 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "o7cHd6hhLwfa1kcEsfrYMYuwaCZc",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "ESKJp4DfOXU6bfEIi_iMDWxtv0FDer2oOvBsZLEEyuo",
+      useTemplateId: "xU1gsF-suRs1DbJXwRQf9WNhFj55KIQJlOu1ulnL76A",
       // 所在省份
       province: "上海",
       // 所在城市
       city: "上海",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://wangxinleo.cn"
+    },
+    {
+      // 想要发送的人的名字
+      name: "Lilly.",
+      // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+      id: "o7cHd6lnq8BTdEi42VabTineKL2k",
+      // 你想对他发送的模板消息的模板ID
+      useTemplateId: "xU1gsF-suRs1DbJXwRQf9WNhFj55KIQJlOu1ulnL76A",
+      // 所在省份
+      province: "浙江",
+      // 所在城市
+      city: "宁波",
+      // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
+      openUrl: "https://gradyll.github.io/lilly"
     }
   ],
 
